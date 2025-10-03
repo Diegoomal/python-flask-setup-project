@@ -1,8 +1,3 @@
-# general
-pdoc==12.*
-flake8==6.0.0
-pytest==7.1.*
-
 # .ipybn
 wcwidth==0.2.13
 ipykernel==6.29.5
@@ -10,8 +5,13 @@ ipywidgets==8.1.4
 jupyterlab-widgets==3.0.12
 widgetsnbextension==4.0.12
 
-# platform
-python-dotenv==1.0.1
+# general use components
+pdoc==12.*
+flake8==6.0.0
+pytest==7.1.*
+python-dotenv==1.1.1
+
+# web-platform
 Flask==3.0.3
 flask-login==0.6.3
 Flask-Bcrypt==1.0.1
