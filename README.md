@@ -54,7 +54,9 @@ flask db downgrade
 [github_author](https://github.com/Diegoomal)
 
 [generate-token](https://github.com/settings/tokens)
+
 [freecodecamp-tutorial](https://www.freecodecamp.org/news/how-to-authenticate-users-in-flask/)
+
 [digitalocean-migration-tutorial](https://www.digitalocean.com/community/tutorials/how-to-perform-flask-sqlalchemy-migrations-using-flask-migrate)
 
 <!-- 
